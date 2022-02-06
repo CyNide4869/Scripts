@@ -1,0 +1,15 @@
+[submodule "batch_extract"]
+	path = batch_extract
+	url = https://github.com/CyNide4869/batch_extract
+[submodule "batch_mux"]
+	path = batch_mux
+	url = https://github.com/CyNide4869/batch_mux
+[submodule "batch_purge"]
+	path = batch_purge
+	url = https://github.com/CyNide4869/batch_purge
+[submodule "colab_batch"]
+	path = colab_batch
+	url = https://github.com/CyNide4869/colab_batch
+[submodule "find_sauce"]
+	path = find_sauce
+	url = https://github.com/CyNide4869/find_sauce
